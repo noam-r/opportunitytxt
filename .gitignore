@@ -25,6 +25,9 @@ key.txt
 output/
 output_txt/
 
+# Golden baselines (local regression data, not published)
+golden_baselines/
+
 # OS
 .DS_Store
 Thumbs.db
